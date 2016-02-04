@@ -1,9 +1,9 @@
 Para este tipo de problemas en que necesitamos tratar muchos elementos, en cantidades arbitrarias (es decir, que funcione por igual para cero, 10 o un millón de elementos), contamos con un nuevo tipo de dato: las listas:
 
 ```haskell
-ム [1, 2, 4]
+ム [1, 2, 4, 5, 6, 8, 10, 100, 20000]
 ム ["die", "bart", "die"]
-ム [True, False, True]
+ム [True, True]
 ム [("@skinnerOk", "Es una aurora boreal"), ("@archuN", "puedo verla??"), ("@skinnerOk", "no")]
 ム []
 
