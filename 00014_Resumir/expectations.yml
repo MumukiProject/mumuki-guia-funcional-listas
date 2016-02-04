@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: resumir
+  inspection: HasBinding
+- binding: resumir
+  inspection: HasComposition
