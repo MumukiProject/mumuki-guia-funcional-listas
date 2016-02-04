@@ -1,0 +1,1 @@
+Acá te va a convenir definir una función auxiliar para recortar un sólo tuit. Capaz te convenga utilizar pattern matching para descomponerlo. 

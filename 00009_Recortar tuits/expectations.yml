@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: textos
+- binding: recortar
   inspection: HasBinding
-- binding: textos
-  inspection: Not:HasGuards
+- binding: recortar
+  inspection: HasTypeSignature
 - binding: ''
   inspection: ''

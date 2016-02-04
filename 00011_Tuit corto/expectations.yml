@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: tuitCorto
+  inspection: Not:HasGuards
+- binding: tuitCorto
+  inspection: HasBinding
