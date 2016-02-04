@@ -8,3 +8,5 @@ expectations:
   inspection: HasUsage:recortar
 - binding: resumir
   inspection: HasUsage:textos
+- binding: ''
+  inspection: ''
