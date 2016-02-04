@@ -1,5 +1,5 @@
 describe "algunosTuits"  $ do 
-  it "algunosTuits [(\"@homero\", \"hmm1\"),\
+    it "algunosTuits [(\"@homero\", \"hmm1\"),\
                    \ (\"@homero\", \"hmm2\"),\ 
                    \ (\"@homero\", \"hmm3\"),\ 
                    \ (\"@homero\", \"hmm4\"),\ 
