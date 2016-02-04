@@ -10,6 +10,7 @@ Para este tipo de problemas en que necesitamos tratar muchos elementos, en canti
 ```
 
 Como ves, las listas pueden tener 
+
   * cualquier tipo de elementos (incluso tuplas, listas y funciones)
   * cualquier tipo cantidad de elementos (incluso 0 o 1). 
   * elementos repetidos.
