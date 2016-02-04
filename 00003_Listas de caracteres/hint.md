@@ -1,0 +1,1 @@
+Si te quedaste pensando en la `a` en el tipo, espereanos un poco. Ya vamos a eso.
