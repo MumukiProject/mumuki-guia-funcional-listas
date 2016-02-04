@@ -4,3 +4,7 @@ expectations:
   inspection: HasBinding
 - binding: resumir
   inspection: HasComposition
+- binding: resumir
+  inspection: HasUsage:recortar
+- binding: resumir
+  inspection: HasUsage:textos

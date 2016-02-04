@@ -2,6 +2,6 @@ Definí la función `resumir`, que dado un conjunto de tuits, los recorte, se qu
 
 Asumí que contás con las siguientes funciones: 
 
-  * `csv`: toma una lista de stirngs y los combina, separandolos por comas
+  * `csv`: toma una lista de strings y los combina, separandolos por comas
   * `textos`: la función que definimos antes
   * `recortar`: la otra función que definimos antes
