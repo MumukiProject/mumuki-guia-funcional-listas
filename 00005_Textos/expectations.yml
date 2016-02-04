@@ -6,3 +6,5 @@ expectations:
   inspection: Not:HasGuards
 - binding: textos
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

@@ -3,4 +3,4 @@ describe "recortar" $ do
         recortar [] `shouldBe` []
     
     it "recortar [(\"@lorem\", \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\")] == [(\"@lorem\", \"Lorem ipsum dol\")]" $ do 
-        [("@lorem", "Lorem ipsum dolor sit amet, consectetur adipiscing elit")] `shouldBe` [("@lorem", "Lorem ipsum dol")]"
+        [("@lorem", "Lorem ipsum dolor sit amet, consectetur adipiscing elit")] `shouldBe` [("@lorem", "Lorem ipsum dol")]
