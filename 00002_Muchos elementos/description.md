@@ -12,7 +12,7 @@ Para este tipo de problemas en que necesitamos tratar muchos elementos, en canti
 Como ves, las listas pueden tener 
 
   * cualquier tipo de elementos (incluso tuplas, listas y funciones)
-  * cualquier tipo cantidad de elementos (incluso 0 o 1). 
+  * cualquier cantidad de elementos (incluso 0 o 1). 
   * elementos repetidos.
 
 Peeeeero, a diferencia de la tuplas, **tienen que ser todos sus elementos del mismo tipo**. 
