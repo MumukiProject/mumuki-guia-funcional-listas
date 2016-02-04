@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: cantidadTuitsCortos
+  inspection: HasBinding
+- binding: cantidadTuitsCortos
+  inspection: HasUsage:tuitCorto
+- binding: cantidadTuitsCortos
+  inspection: HasComposition
