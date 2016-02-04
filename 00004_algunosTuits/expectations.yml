@@ -2,3 +2,5 @@
 expectations:
 - binding: algunosTuits
   inspection: HasBinding
+- binding: ''
+  inspection: ''
