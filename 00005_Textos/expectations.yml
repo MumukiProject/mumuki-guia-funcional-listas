@@ -4,5 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: textos
   inspection: Not:HasGuards
-- binding: ''
-  inspection: ''
+- binding: textos
+  inspection: HasTypeSignature
