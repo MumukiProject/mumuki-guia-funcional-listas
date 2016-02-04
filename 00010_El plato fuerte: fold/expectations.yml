@@ -2,4 +2,4 @@
 expectations:
 - binding: csv
   inspection: HasBinding
-- inspection: ''
+- {}
