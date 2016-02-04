@@ -11,6 +11,7 @@ length :: [a] -> Int
 Que los strings sean listas es muy útil, dado que nos permitirá usar muchas de las funciones de listas que veremos, pasándole strings. 
 
 > ¿Qué pasa en el intérprete si escribís?
+>
 > * `ム "hola"`
 > * `ム ['a', 'b', 'c'`
 > 
