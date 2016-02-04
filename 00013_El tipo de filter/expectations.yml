@@ -4,3 +4,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: nustroFilter
   inspection: Not:HasBinding
+- binding: ''
+  inspection: ''
