@@ -2,7 +2,7 @@ Para este tipo de problemas en que necesitamos tratar muchos elementos, en canti
 
 ```haskell
 ム [1, 2, 4]
-ム ['die', 'bart', 'die']
+ム ["die", "bart", "die"]
 ム [True, False, True]
 ム [("@skinnerOk", "Es una aurora boreal"), ("@archuN", "puedo verla??"), ("@skinnerOk", "no")]
 ム []
