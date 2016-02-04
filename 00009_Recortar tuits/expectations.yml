@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: recortar
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

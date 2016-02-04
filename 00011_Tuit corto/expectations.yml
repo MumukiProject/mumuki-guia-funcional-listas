@@ -4,5 +4,5 @@ expectations:
   inspection: Not:HasGuards
 - binding: tuitCorto
   inspection: HasBinding
-- binding: ''
-  inspection: ''
+- binding: tuitCorto
+  inspection: HasComposition
