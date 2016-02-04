@@ -5,5 +5,5 @@ En Haskell hay dos funciones muy parecidas que sirven para "recortar" listas:
 
 Como cosas importantes a tener en cuenta:
 
-  * ¡Ninguna de las funciones modifica la lista original! Sólo devuelve nuevas listas. De hecho, en Haskell, NADA modifica NADA, NUNCA. 
+  * ¡Ninguna de las funciones modifica la lista original! Sólo devuelve nuevas listas. De hecho, **en funcional, NADA modifica NADA, NUNCA**. 
   * Si las listas son mas cortas que N, no se rompen. Probá lo que pasa en el interprete. 
