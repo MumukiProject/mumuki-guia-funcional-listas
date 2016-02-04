@@ -24,6 +24,6 @@ elPrimeroEsPar :: Num a => [a] -> Bool
 elPrimeroEsPar x = even (head x) 
 ```
 
-¡No hay más misterio! Haskell se da cuenta de que es una lista por el proces normal de inferencia que ya viene haciendo. 
+¡No hay más misterio! Haskell se da cuenta de que es una lista por el proceso normal de inferencia que ya viene haciendo. 
 
 > ¡Ups! Recién usamos la función `head` y no dijimos qué hace. ¡Descubrilo en el intérprete!
