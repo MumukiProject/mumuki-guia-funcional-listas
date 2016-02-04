@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: nuestroFilter
+  inspection: HasTypeSignature
+- binding: nustroFilter
+  inspection: Not:HasBinding
