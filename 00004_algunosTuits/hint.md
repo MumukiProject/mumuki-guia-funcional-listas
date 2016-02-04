@@ -1,4 +1,4 @@
-En Haskell hay dos funciones muy parecidas que sirve para "recortar" listas:
+En Haskell hay dos funciones muy parecidas que sirven para "recortar" listas:
 
   * `take`: toma una cantidad N y una lista, y devuelve los primeros N elementos de la lista
   * `drop`: toma una cantidad N y una lista, y "descarta" los primeros N elementos de la lista
