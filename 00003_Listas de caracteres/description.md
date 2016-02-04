@@ -13,7 +13,7 @@ Que los strings sean listas es muy útil, dado que nos permitirá usar muchas de
 > ¿Qué pasa en el intérprete si escribís?
 >
 > * `ム "hola"`
-> * `ム ['a', 'b', 'c'`
+> * `ム ['a', 'b', 'c']`
 > 
 > Probalo
 
