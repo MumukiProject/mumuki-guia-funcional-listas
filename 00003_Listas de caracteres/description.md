@@ -2,7 +2,7 @@ Ah, ¿pero la función `length` no la conocíamos ya? ¿No era para strings? ¿T
 
 Sí, un poco.
 
-En realidad, en Haskell los strings son listas de caracteres (`Char`s). Y length funciona para cualquier lista; su tipo es: 
+En realidad, en Haskell los strings son listas de caracteres (`Char`s). Y `length` funciona para cualquier lista; su tipo es: 
 
 ```haskell
 length :: [a] -> Int
