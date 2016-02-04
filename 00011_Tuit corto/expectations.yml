@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: tuitCorto
   inspection: HasComposition
+- binding: ''
+  inspection: ''

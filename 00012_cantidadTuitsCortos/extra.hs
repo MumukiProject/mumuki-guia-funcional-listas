@@ -1,0 +1,1 @@
+tuitCorto = (<10).length.snd
