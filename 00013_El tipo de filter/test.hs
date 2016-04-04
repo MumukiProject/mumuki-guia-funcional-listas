@@ -1,5 +1,7 @@
 it "nuestroFilter tipa" $ do 
-   filter not [True, False] `shouldBe` [False]
-   filter (<4) [3] `shouldBe` [3]
-   Exception.evaluate (filter (+1) [3]) `shouldReturn` anyErrorCall
+   nuestroFilter not [True, False] `shouldBe` [False]
+   nuestroFilter (<4) [3] `shouldBe` [3]
+   
+it "nuestroFilter (+1) [3] NO tipa" $ do 
+   Exception.evaluate (nuestroFilter (+1) [3]) `shouldReturn` anyErrorCall
    
