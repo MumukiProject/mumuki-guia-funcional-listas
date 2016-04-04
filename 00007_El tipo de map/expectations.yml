@@ -4,5 +4,3 @@ expectations:
   inspection: HasTypeSignature
 - binding: nuestroMap
   inspection: Not:HasBinding
-- binding: ''
-  inspection: ''
