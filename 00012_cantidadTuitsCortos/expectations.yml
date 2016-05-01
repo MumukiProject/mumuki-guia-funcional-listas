@@ -6,3 +6,5 @@ expectations:
   inspection: HasUsage:tuitCorto
 - binding: cantidadTuitsCortos
   inspection: HasComposition
+- binding: cantidadTuitsCortos
+  inspection: HasTypeSignature
