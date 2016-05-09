@@ -1,6 +1,4 @@
-Existe una función llamada `map`, de orden superior. 
-
-`map` una función y una lista, y devuelve una lista nueva:  el resultado de aplicar la función a cada elemento de la lista original. 
+Existe una función llamada `map`, de orden superior. `map` recibe una función y una lista, y devuelve una lista nueva:  el resultado de aplicar la función a cada elemento de la lista original. 
 
 Es una función muuuuy util. Por eso, antes de seguir, te vamos a pedir que pruebes las siguientes cosas: 
 
