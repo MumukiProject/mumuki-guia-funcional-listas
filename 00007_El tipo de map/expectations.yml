@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: nuestroMap
+- !ruby/hash:BSON::Document
+  binding: nuestroMap
   inspection: HasTypeSignature
-- binding: nuestroMap
+- !ruby/hash:BSON::Document
+  binding: nuestroMap
   inspection: Not:HasBinding
