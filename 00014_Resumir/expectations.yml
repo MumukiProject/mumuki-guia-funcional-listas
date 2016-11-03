@@ -1,14 +1,10 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: resumir
+- binding: resumir
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: resumir
+- binding: resumir
   inspection: HasComposition
-- !ruby/hash:BSON::Document
-  binding: resumir
+- binding: resumir
   inspection: HasUsage:recortar
-- !ruby/hash:BSON::Document
-  binding: resumir
+- binding: resumir
   inspection: HasUsage:textos
