@@ -1,14 +1,10 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: cantidadTuitsCortos
+- binding: cantidadTuitsCortos
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: cantidadTuitsCortos
+- binding: cantidadTuitsCortos
   inspection: HasUsage:tuitCorto
-- !ruby/hash:BSON::Document
-  binding: cantidadTuitsCortos
+- binding: cantidadTuitsCortos
   inspection: HasComposition
-- !ruby/hash:BSON::Document
-  binding: cantidadTuitsCortos
+- binding: cantidadTuitsCortos
   inspection: HasTypeSignature

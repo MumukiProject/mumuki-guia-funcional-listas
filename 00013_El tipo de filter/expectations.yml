@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: nuestroFilter
+- binding: nuestroFilter
   inspection: HasTypeSignature
-- !ruby/hash:BSON::Document
-  binding: nustroFilter
+- binding: nustroFilter
   inspection: Not:HasBinding

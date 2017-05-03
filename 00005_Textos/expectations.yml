@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: textos
+- binding: textos
   inspection: HasBinding
-- !ruby/hash:BSON::Document
-  binding: textos
+- binding: textos
   inspection: Not:HasGuards
-- !ruby/hash:BSON::Document
-  binding: textos
+- binding: textos
   inspection: HasTypeSignature
