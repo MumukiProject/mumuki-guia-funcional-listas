@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: tuitCorto
+- !ruby/hash:BSON::Document
+  binding: tuitCorto
   inspection: Not:HasGuards
-- binding: tuitCorto
+- !ruby/hash:BSON::Document
+  binding: tuitCorto
   inspection: HasBinding
-- binding: tuitCorto
+- !ruby/hash:BSON::Document
+  binding: tuitCorto
   inspection: HasComposition

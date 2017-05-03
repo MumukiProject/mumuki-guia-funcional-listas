@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: recortar
+- !ruby/hash:BSON::Document
+  binding: recortar
   inspection: HasBinding
-- binding: recortar
+- !ruby/hash:BSON::Document
+  binding: recortar
   inspection: HasTypeSignature
