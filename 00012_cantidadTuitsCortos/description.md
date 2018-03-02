@@ -1,6 +1,6 @@
 Ahora María quiere saber la cantidad de tuits cortos. 
 
-Por suerte, contamos en Haskell con una función `filter` que devuevle los elementos de una lista que cumplen una condición.
+Por suerte, contamos en Haskell con una función `filter` que devuelve los elementos de una lista que cumplen una condición.
 
 ```haskell
 ム filter even [1, 2, 3,4, 2]
