@@ -1,1 +1,1 @@
-Si te quedaste pensando en la `a` en el tipo, espereanos un poco. Ya vamos a eso.
+Si te quedaste pensando en la `a` en el tipo, esperanos un poco. Ya vamos a eso.
