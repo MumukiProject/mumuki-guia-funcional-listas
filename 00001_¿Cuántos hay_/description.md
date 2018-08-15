@@ -1,6 +1,6 @@
-Lo primero que María Tuiter quiere saber es cuantos `tuit`s tiene. Con lo que sabemos, ¿cómo podríamos resolver esto?
+Lo primero que María Tuiter quiere saber es cuántos `tuit`s tiene. Con lo que sabemos, ¿cómo podríamos resolver esto?
 
-Por ejemplo, ¿con una función que me diga cuantos parámetros toma? Esto podría verse así, ¿no?
+Por ejemplo, ¿con una función que me diga cuántos parámetros toma? Esto podría verse así, ¿no?
 
 ```haskell
 cuantosHay unTuit = 1
