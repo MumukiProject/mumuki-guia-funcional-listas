@@ -1,6 +1,6 @@
 ¿Te acordás que en el ejercicio anterior `csv` ya venía definido? Ahora te toca hacerlo a vos.
 
-En Haskell contamos con la función `intercalate`. Pero, ¿Para qué contarte que hace si podemos mostrartelo?
+En Haskell contamos con la función `intercalate`. Pero, ¿Para qué contarte qué hace si podemos mostrártelo?
 
 ```haskell
 ム intercalate intercalate " " ["hola", "don", "pepito"]
