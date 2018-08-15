@@ -8,8 +8,8 @@ A un `tuit`  lo vamos a _modelar_ mediante un par `(usuarioQueLoEscribio, textoD
 -- arroba delante.... porque sí
 ```
 
-¡Pero no tan rapido! Tuiter no tiene un solo mensajito... ¡maneja cientos, miles, millones de `tuit`!
+¡Pero no tan rápido! Tuiter no tiene un solo mensajito... ¡maneja cientos, miles, millones de `tuit`!
 
-¿Cómo hacemos para representar esto en el pardigma funcional?
+¿Cómo hacemos para representar esto en el paradigma funcional?
 
 _la respuesta, a continuación..._
