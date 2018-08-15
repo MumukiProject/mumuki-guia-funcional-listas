@@ -11,6 +11,6 @@ Por suerte, contamos en Haskell con una función `filter` que devuelve los eleme
 []
 ```
 
-> Sabiendo esto, definí la función `cantidadTuitsCortos` y explitiá su tipo. Usá composición. 
+> Sabiendo esto, definí la función `cantidadTuitsCortos` y explicitá su tipo. Usá composición. 
 >
 > Asumí que la función `tuitCorto` ya está definida. 
