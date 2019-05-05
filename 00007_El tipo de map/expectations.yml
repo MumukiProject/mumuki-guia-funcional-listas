@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: nuestroMap
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: nuestroMap
   inspection: HasTypeSignature
-- binding: nuestroMap
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: nuestroMap
   inspection: Not:HasBinding

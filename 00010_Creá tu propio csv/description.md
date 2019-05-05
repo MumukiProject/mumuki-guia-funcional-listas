@@ -3,7 +3,7 @@
 En Haskell contamos con la función `intercalate`. Pero, ¿Para qué contarte qué hace si podemos mostrártelo?
 
 ```haskell
-ム intercalate intercalate " " ["hola", "don", "pepito"]
+ム intercalate " " ["hola", "don", "pepito"]
 "hola don pepito"
 
 ム intercalate ", despacio, tambien " ["podes ser el sol","podes ser la luna"]

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: csv
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: csv
   inspection: HasBinding
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter

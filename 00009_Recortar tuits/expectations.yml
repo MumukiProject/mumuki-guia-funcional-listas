@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: recortar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: recortar
   inspection: HasBinding
-- binding: recortar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: recortar
   inspection: HasTypeSignature

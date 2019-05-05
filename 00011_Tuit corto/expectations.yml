@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: tuitCorto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tuitCorto
   inspection: Not:HasGuards
-- binding: tuitCorto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tuitCorto
   inspection: HasBinding
-- binding: tuitCorto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tuitCorto
   inspection: HasComposition
